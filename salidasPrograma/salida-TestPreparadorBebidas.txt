@@ -1,0 +1,37 @@
+ Configuracion 1: Cafetera + Licuadora
+Iniciando preparacion del desayuno...
+Cafetera encendida.
+Preparando cafe con intensidad 1.
+Licuadora encendida.
+Licuando ingredientes a velocidad 1.
+Desayuno listo.
+Apagando equipos...
+Cafetera apagada.
+Licuadora apagada.
+Equipos apagados.
+
+ Configuracion 2: Maquina de te + Exprimidor
+Iniciando preparacion del desayuno...
+Máquina de té encendida, calentando agua.
+Preparando té con intensidad 1.
+Exprimidor encendido.
+Exprimiendo frutas a velocidad 1.
+Desayuno listo.
+Apagando equipos...
+Máquina de té apagada.
+Exprimidor apagado.
+Equipos apagados.
+
+ Configuracion 3: Cafetera + Maquina de te
+Iniciando preparacion del desayuno...
+Cafetera encendida.
+Preparando cafe con intensidad 1.
+Máquina de té encendida, calentando agua.
+Preparando té con intensidad 1.
+Desayuno listo.
+Apagando equipos...
+Cafetera apagada.
+Máquina de té apagada.
+Equipos apagados.
+
+Process finished with exit code 0
