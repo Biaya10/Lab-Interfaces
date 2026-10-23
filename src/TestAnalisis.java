@@ -1,13 +1,13 @@
 public class TestAnalisis {
     public static void main(String[] args) {
-    // Creando preparador de bebidas
-    PreparadorBebidas preparador1 = new PreparadorBebidas();
-    // Llamando a PrepararDesayuno()
-    preparador.prepararDesayuno();
-    // llamando a apagartod()
-    preparador.apagarTodo();
+        // Creando preparador de bebidas
+        PreparadorBebidas preparador = new PreparadorBebidas();
+        // Llamando a prepararDesayuno()
+        preparador.prepararDesayuno();
+        // Llamando a apagarTodo()
+        preparador.apagarTodo();
 
-    // Imprimir problema:
-    System.out.print("")
+        // Problema detectado:
+        System.out.println("// El preparador esta amarrado a Cafetera y Licuadora");
     }
 }
