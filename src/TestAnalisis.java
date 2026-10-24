@@ -8,6 +8,11 @@ public class TestAnalisis {
         preparador.apagarTodo();
 
         // Problema detectado:
-        System.out.println("// El preparador esta amarrado a Cafetera y Licuadora");
+        System.out.print("No genera errores en consola." +
+                "pero la forma de utilizar la clase preparador de bebidas solo" +
+                "permite tener dos equipos, para agregar mas, se debe agregar" +
+                "las clases explicitamente. ");
     }
+
+
 }
